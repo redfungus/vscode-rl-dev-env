@@ -1,0 +1,11 @@
+tensorflow==2.4.0
+torch==1.7.1
+torchvision==0.8.2
+keras-rl2==1.0.4
+gym==0.18.0
+ipython==7.12.0
+# dm-acme
+# dm-acme[reverb]
+# dm-acme[tf]
+# dm-acme[jax]
+# dm-acme[envs]
